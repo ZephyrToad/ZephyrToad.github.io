@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stay-awake/static/css/main.3349e287.chunk.css",
+    "main.js": "/stay-awake/static/js/main.4d288413.chunk.js",
+    "main.js.map": "/stay-awake/static/js/main.4d288413.chunk.js.map",
+    "runtime-main.js": "/stay-awake/static/js/runtime-main.1b95184e.js",
+    "runtime-main.js.map": "/stay-awake/static/js/runtime-main.1b95184e.js.map",
+    "static/js/2.02e1047f.chunk.js": "/stay-awake/static/js/2.02e1047f.chunk.js",
+    "static/js/2.02e1047f.chunk.js.map": "/stay-awake/static/js/2.02e1047f.chunk.js.map",
+    "index.html": "/stay-awake/index.html",
+    "precache-manifest.a0584531b27e2a772b4c43598e8edaae.js": "/stay-awake/precache-manifest.a0584531b27e2a772b4c43598e8edaae.js",
+    "service-worker.js": "/stay-awake/service-worker.js",
+    "static/css/main.3349e287.chunk.css.map": "/stay-awake/static/css/main.3349e287.chunk.css.map",
+    "static/js/2.02e1047f.chunk.js.LICENSE": "/stay-awake/static/js/2.02e1047f.chunk.js.LICENSE",
+    "static/media/shyguy.gif": "/stay-awake/static/media/shyguy.0f9981f7.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b95184e.js",
+    "static/js/2.02e1047f.chunk.js",
+    "static/css/main.3349e287.chunk.css",
+    "static/js/main.4d288413.chunk.js"
+  ]
+}
